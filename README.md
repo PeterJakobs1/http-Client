@@ -1,5 +1,11 @@
 # http-Client
 
+node_modules
+typings
+dist
+.vscode
+.idea
+.npm-debug.log
 *.iml
-.idea/
-.target/
+dump.rdb
+
